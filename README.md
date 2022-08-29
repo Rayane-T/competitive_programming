@@ -1,1 +1,1 @@
-# comptetitive_programming
+# Competitive Programming Contests
